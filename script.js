@@ -42,7 +42,7 @@ const perguntas = [
             {
                 texto: "Roubo"
                 afirmacao: "é um crime contra o patrimônio que envolve a apropriação indébita de bens ou recursos de outra pessoa por meio de ameaça, violência, ou intimidação, pode ocorrer em diversos contextos, como assaltos a mão armada, furtos em residências, roubos a estabelcimentos comerciais, etc. "
-            }enunciado
+            }
         ]
     },
 ];
