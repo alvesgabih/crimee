@@ -10,27 +10,26 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Câmera de segurança",
-                afirmacao: "onde foi instalado câmeras pela cidade inteira, e caso precise é tudo filmado "
+                afirmacao: "onde foi instalado câmeras pela cidade inteira, e caso precise é tudo filmado"
             },
             {
-                texto: "Sensor e de segurança"
+                texto: "Sensor e de segurança",
                 afirmacao: "quando alguém tenta invadir algum comércio ou algum lugar que tenha este sensor ele é disparado e é direcionado o sinal para delegacia "
             }
         ]
     },
     {
-        enunciado: "Quais são os fatores sociais que contribuem para o ocorrência de crimes, como roubo, violência e corrupção?  ",
+        enunciado: "Quais são os fatores sociais que contribuem para o ocorrência de crimes, como roubo, violência e corrupção? ",
         alternativas: [
             {
                 texto: "Fome",
                 afirmacao: "é um dos principais fatores da ocorrência do roubo, a fome leva o indivíduo a roubar para se alimentar"
             },
             {
-                texto: "Desemprego"
-                afirmacao: "é outro dos principais fatores para o crime, eles roubam para conseguir dinheiro e se sustentarem "
+                texto: "Desemprego",
+                afirmacao: "é outro dos principais fatores para o crime, eles roubam para conseguir dinheiro e se sustentarem"
             }
         ]
-        
     },
     {
         enunciado: "Quais ão os crimes mais ocorrentes na sua cidade?",
@@ -40,12 +39,13 @@ const perguntas = [
                 afirmacao: "é a atividdade criminosa que envolve a produção e distribuição e venda ilegal de substâncias entorpecentes"
             },
             {
-                texto: "Roubo"
-                afirmacao: "é um crime contra o patrimônio que envolve a apropriação indébita de bens ou recursos de outra pessoa por meio de ameaça, violência, ou intimidação, pode ocorrer em diversos contextos, como assaltos a mão armada, furtos em residências, roubos a estabelcimentos comerciais, etc. "
+                texto: "Roubo",
+                afirmacao: "é um crime contra o patrimônio que envolve a apropriação indébita de bens ou recursos de outra pessoa por meio de ameaça, violência, ou intimidação, pode ocorrer em diversos contextos, como assaltos a mão armada, furtos em residências, roubos a estabelcimentos comerciais, etc."
             }
         ]
     },
 ];
+
 
 let atual = 0;
 let perguntaAtual;
